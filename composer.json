@@ -19,7 +19,7 @@
     },
     "autoload": {
         "classmap": [
-            "libraries/Franchisor.php"
+            "libraries/"
         ]
     },
     "minimum-stability": "dev"

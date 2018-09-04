@@ -1,13 +1,25 @@
 {
+    "description": "Provide GoLaba libraries for golaba.id",
     "name": "golabaid/golaba-libraries",
-    "description": "Provide GoLaba\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dlibraries for golaba.id",
     "type": "library",
-    "license": "GPL",
+    "homepage": "https://github.com/golabaid/golaba-libraries",
     "authors": [
         {
             "name": "lucky",
-            "email": "lucky@golaba.id"
+            "email": "lucky@golaba.id",
+            "role": "Developer"
         }
     ],
-    "require": {}
+    "license": "GPL",
+    "support": {
+        "source": "https://github.com/golabaid/golaba-libraries"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": [
+            "libraries/Franchisor.php"
+        ]
+    }
 }

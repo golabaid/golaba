@@ -1,0 +1,13 @@
+{
+    "name": "golabaid/golaba-libraries",
+    "description": "Provide GoLaba\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dlibraries for golaba.id",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "lucky",
+            "email": "lucky@golaba.id"
+        }
+    ],
+    "require": {}
+}

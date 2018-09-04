@@ -21,5 +21,6 @@
         "classmap": [
             "libraries/Franchisor.php"
         ]
-    }
+    },
+    "minimum-stability": "dev"
 }

@@ -8,4 +8,9 @@ class Franchisor
 	{
         $this->CI =& get_instance();
 	}
+
+	public function test()
+	{
+		echo "test";exit;
+	}
 }
